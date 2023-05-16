@@ -1,5 +1,5 @@
 # PROGRAM DESCRIPTION
-This program prints a small PNG image straight to the terminal.
+This program prints a small PNG image straight to the terminal. As per the project guidelines, it only contains exactly 50 lines of operable code. Any other lines contain code documentation.
 # PROGRAM RUNNING:
 This program take 2 or 3 arguments in the command line.
 The 1st argument is the python file name (i.e. fge.py)
@@ -10,4 +10,7 @@ Please keep in mind that larger PNG images will take a longer time to load, and 
 # BEFORE RUNNING: 
 pip install matplotlib, sty, and PIL
 # USES: 
-steganography, creating an x-ray filter, loading up a larger version of small image files, printing PNG image files in a command line Terminal.
+   - Steganography
+   - Creating an x-ray filter
+   - Loading up a larger version of small image files
+   - Printing PNG image files in a command line Terminal.
