@@ -1,9 +1,7 @@
 '''
 Michelle Luo
-Cmdr. Schenk
-Final Graded Experience: Pixel Printer/Inverter
+Pixel Printer/Inverter
 May 16 2023
-AP CS50
 '''
 
 # PROGRAM DESCRIPTION
